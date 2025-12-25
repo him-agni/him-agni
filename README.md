@@ -9,11 +9,6 @@ Tech-stacks
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
 
-📊Most used languages
-![him-agni's GitHub stats](https://github-readme-stats.vercel.app/api?username=him-agni&show_icons=true&theme=radical)
-
-Let's connect:
-LinkedIn
 
 
 
