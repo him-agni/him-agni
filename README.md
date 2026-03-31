@@ -1,5 +1,5 @@
 ## Hi there, I'm Himani Agrawal 👋
-Front-end Developer | React Developer
+Full-Stack Developer | React Developer | JavaScript Developer | MERN Stack
 
 I'm a passionate web developer who is constantly learning and building projects that work, perform and scale.
 
