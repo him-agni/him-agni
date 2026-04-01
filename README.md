@@ -3,12 +3,12 @@
 ### Full-Stack Developer · MERN Stack · React · JavaScript
 
 I build web applications that are fast, functional, and built to scale.
-In under a year, I've gone from zero to shipping full-stack projects —
-and I'm just getting started.
+Self-taught and driven, I've gone from zero to shipping full-stack projects
+in under a year — and I'm just getting started.
 
-Currently focused on deepening my React and Node.js skills while
-actively looking for opportunities where I can contribute, grow,
-and build things that matter.
+Currently leveling up with **Next.js**, **TypeScript**, and **AI integration** —
+building projects that don't just work, but think. I'm comfortable working with AI workflows — from integrating
+LLM APIs into apps to building AI-powered features that solve real problems.
 
 🔍 **Open to work** — Junior Developer / Frontend / Full-Stack roles
 
@@ -23,6 +23,5 @@ and build things that matter.
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-
-
-
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
