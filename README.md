@@ -3,8 +3,8 @@
 ### Full-Stack Developer · MERN Stack · React · JavaScript
 
 I build web applications that are fast, functional, and built to scale.
-Self-taught and driven, I've gone from zero to shipping full-stack projects
-in under a year — and I'm just getting started.
+Self-taught and relentless. I figure things out, push through errors,
+and never stop building — because the learning never stops either.
 
 Currently leveling up with **Next.js**, **TypeScript**, and **AI integration** —
 building projects that don't just work, but think. I'm comfortable working with AI workflows — from integrating
