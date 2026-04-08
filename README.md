@@ -1,6 +1,6 @@
 # Hi, I'm Himani Agrawal 👋
 
-### Full-Stack Developer · MERN Stack · React · JavaScript
+### Frontend Developer · Full-Stack Developer · React · JavaScript · MERN Stack
 
 I build web applications that are fast, functional, and built to scale.
 Self-taught and relentless. I figure things out, push through errors,
