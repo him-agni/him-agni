@@ -6,7 +6,7 @@ I build web applications that are fast, functional, and built to scale.
 Self-taught and relentless. I figure things out, push through errors,
 and never stop building — because the learning never stops either.
 
-Currently leveling up with **Next.js**, **TypeScript**, and **AI integration** —
+Currently leveling up with **Next.js**, **TypeScript**, **Python** and **AI integration** —
 building projects that don't just work, but think. I'm comfortable working with AI workflows — from integrating
 LLM APIs into apps to building AI-powered features that solve real problems.
 
