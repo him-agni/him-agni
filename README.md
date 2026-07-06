@@ -14,7 +14,7 @@ I also run webdevlearns — an educational content brand for React and full-stac
 
 I'm looking for Full-stack Developer, Frontend Developer or Solutions Engineer roles in Austin where I can build things, explain things, and grow fast.  
 
-EAD | No sponsorship required | Open to internships / Entry-Level Roles
+EAD | No sponsorship required | Open to Entry-Level Roles
 ---
 
 **Tech Stack**
