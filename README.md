@@ -2,16 +2,19 @@
 
 ### Frontend Developer · Full-Stack Developer · React · JavaScript · MERN Stack
 
-I build web applications that are fast, functional, and built to scale.
-Self-taught and relentless. I figure things out, push through errors,
-and never stop building — because the learning never stops either.
+I specialize in React, Node.js, Express, MongoDB, and TypeScript and independently design and build original, production-style full-stack systems.
 
-Currently leveling up with **Next.js**, **TypeScript**, **Python**, **PostgreSQL** and **AI integration** —
-building projects that don't just work, but think. I'm comfortable working with AI workflows — from integrating
-LLM APIs into apps to building AI-powered features that solve real problems.
+What I do: 
+→ Build full-stack apps with React, Node/Express, MongoDB, TypeScript 
+→ Ship projects like a SaaS Integration Hub, GitHub Stats Tracker, and Release Intelligence Dashboard 
+→ Translate technical complexity into clear explanations  
+→ Identify problems and architect solutions ground up
 
-🔍 **Open to work** — Junior Developer / Frontend / Full-Stack roles
+I also run webdevlearns — an educational content brand for React and full-stack developers on Instagram and LinkedIn. My "UI of AI" carousel series covers AI-native frontend UX patterns. My React tooling series has covered Zustand, React Query, Zod, Webhooks, and more.  
 
+I'm looking for Full-stack Developer, Frontend Developer or Solutions Engineer roles in Austin where I can build things, explain things, and grow fast.  
+
+EAD | No sponsorship required | Open to internships / Entry-Level Roles
 ---
 
 **Tech Stack**
