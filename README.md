@@ -5,13 +5,9 @@
 I specialize in React, Node.js, Express, MongoDB, and TypeScript and independently design and build original, production-style full-stack systems.
 
 What I do: 
-
 → Build full-stack apps with React, Node/Express, MongoDB, TypeScript 
-
 → Ship projects like a SaaS Integration Hub, Security Posture Scorecard, and Release Intelligence Dashboard 
-
 → Translate technical complexity into clear explanations  
-
 → Identify problems and architect solutions ground up
 
 I also run webdevlearns — an educational content brand for React and full-stack developers on Instagram and LinkedIn. My "UI of AI" carousel series covers AI-native frontend UX patterns. My React tooling series has covered Zustand, React Query, Zod, Webhooks, and more.  
