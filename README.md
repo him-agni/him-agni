@@ -2,6 +2,8 @@
 
 ### Frontend Developer · Full-Stack Developer · React · JavaScript · MERN Stack
 
+Portfolio Website - https://him-agni.github.io/portfolio/
+
 I specialize in React, Node.js, Express, MongoDB, and TypeScript and independently design and build original, production-style full-stack systems.
 
 What I do: 
@@ -10,7 +12,7 @@ What I do:
 → Translate technical complexity into clear explanations  
 → Identify problems and architect solutions ground up
 
-I also run webdevlearns — an educational content brand for React and full-stack developers on Instagram and LinkedIn. My "UI of AI" carousel series covers AI-native frontend UX patterns. My React tooling series has covered Zustand, React Query, Zod, Webhooks, and more.  
+I run neophyte.js (Instagram page) for educational content on AI where I've dissected topics like on UI of AI, Backend of AI, System Design of AI etc. I also write on Substack suggesting AI solutions for softwares and businesses.
 
 I'm looking for Full-stack Developer, Frontend Developer or Solutions Engineer roles in Austin where I can build things, explain things, and grow fast.  
 
