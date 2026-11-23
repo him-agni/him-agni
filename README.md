@@ -18,8 +18,6 @@ Full-stack developer in Herndon, VA (DC metro) who builds the whole thing: React
 | [SponsorLens](https://github.com/him-agni/sponsorlens) | Nebius × NVIDIA hackathon: Python/FastAPI service using Nemotron, code-verified quotes, and a rules table; LangSmith evals |
 | SafePay Guardian (https://github.com/him-agni/safepay_guardian) | PayPal AI hackathon: payment-risk guardian on the PayPal sandbox |
 
-
-EAD | No sponsorship required
 Portfolio Website - https://him-agni.github.io/portfolio/
 ---
 
@@ -34,3 +32,6 @@ Portfolio Website - https://him-agni.github.io/portfolio/
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/pypi/pyversions/python)
+
+
