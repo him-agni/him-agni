@@ -1,22 +1,26 @@
 # Hi, I'm Himani Agrawal 👋
 
-### Frontend Developer · Full-Stack Developer · React · JavaScript · MERN Stack
+Full-stack developer in Herndon, VA (DC metro) who builds the whole thing: React and Next.js front ends, Node/Express and FastAPI back ends, MongoDB and SQL data, and the tests that keep it working. Open to **software developer**, **forward deployed engineer**, and **solutions engineer** roles, in the DC area or remote across the US.
 
+## What I build
+- **Front ends** in React and Next.js with TypeScript
+- **Back ends** in Node/Express and Python/FastAPI, with MongoDB and SQL
+- **Auth, payments, and third-party APIs**: Clerk, Stripe, GitHub, Slack, Shopify
+- **AI features** that call LLMs (Nemotron, Gemini) and check the output in code
+- **Tests**: Vitest, Playwright, axe accessibility scans, and LangSmith evals
+
+## Featured projects
+| Project | What it is |
+|---|---|
+| [My Farmhouse](https://my-farmhouse-pi.vercel.app/) | Next.js and TypeScript storefront: Sanity catalog, Clerk accounts, Stripe Checkout, Gemini assistant; 193 unit/integration and 56 Playwright tests |
+| [SaaS Integration Hub](https://him-agni.github.io/portfolio/#/projects/saas-integration-hub) | React (Vite, TanStack Query) and Node/Express + MongoDB app serving Stripe, Shopify, and Slack events through one REST API |
+| [Security Posture Scorecard](https://him-agni.github.io/portfolio/#/projects/security-posture-scorecard) | React and Node/Express repo scanner using the GitHub API and OSV; plugin-based checks, 70+ Vitest tests |
+| [SponsorLens](https://github.com/him-agni/sponsorlens) | Nebius × NVIDIA hackathon: Python/FastAPI service using Nemotron, code-verified quotes, and a rules table; LangSmith evals |
+| SafePay Guardian (https://github.com/him-agni/safepay_guardian) | PayPal AI hackathon: payment-risk guardian on the PayPal sandbox |
+
+
+EAD | No sponsorship required
 Portfolio Website - https://him-agni.github.io/portfolio/
-
-I specialize in React, Node.js, Express, MongoDB, and TypeScript and independently design and build original, production-style full-stack systems.
-
-What I do: 
-→ Build full-stack apps with React, Node/Express, MongoDB, TypeScript 
-→ Ship projects like a SaaS Integration Hub, Security Posture Scorecard, and Release Intelligence Dashboard 
-→ Translate technical complexity into clear explanations  
-→ Identify problems and architect solutions ground up
-
-I run neophyte.js (Instagram page) for educational content on AI where I've dissected topics like on UI of AI, Backend of AI, System Design of AI etc. I also write on Substack suggesting AI solutions for softwares and businesses.
-
-I'm looking for Full-stack Developer, Frontend Developer or Solutions Engineer roles in Austin where I can build things, explain things, and grow fast.  
-
-EAD | No sponsorship required | Open to Entry-Level Roles
 ---
 
 **Tech Stack**
